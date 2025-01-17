@@ -1,4 +1,4 @@
-tensorflow==2.3
+tensorflow>=2.17.0
 pandas>=1.5.0
 numpy>=1.22.0
 scikit-learn>=1.2.0
@@ -8,4 +8,4 @@ streamlit>=1.25.0
 scikeras>=0.10.0
 h5py>=3.8.0
 protobuf>=3.20.3,<4.0.0
-keras>=2.17.0         # If you're using standalone Keras
+keras>=2.17.0
